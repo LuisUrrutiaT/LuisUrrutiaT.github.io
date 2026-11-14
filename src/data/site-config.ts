@@ -8,7 +8,7 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
+    title: 'Luis Urrutia',
     subtitle: 'Minimal Astro.js theme',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "I'm **Luis Urrutia**, IT student pursuing a Bachelor of Applied Science in Information Technology with experience in technical support, cloud solutions, and troubleshooting across global environments. With strong ability to diagnose and resolve, maintain hardware, software, and networking issues while continuing high levels of security policies and user satisfaction.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
