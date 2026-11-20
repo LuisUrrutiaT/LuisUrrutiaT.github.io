@@ -18,7 +18,7 @@ seo:
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+Network Technician Career Path (Cisco Networking Academy), Microsoft 365, Google Workspace, basic GitHub, AWS,.
 
 ## Innovation and Problem-Solving
 
