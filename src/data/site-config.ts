@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Luis Urrutia',
-    subtitle: 'IT Specialist',
+    subtitle: 'IT Specialist-Ensign College',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -53,8 +53,8 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'LinkedIn',
-            href: 'http://www.linkedin.com/in/luisfurrutia'
+            text: 'Dribbble',
+            href: 'https://dribbble.com/'
         },
         {
             text: 'Instagram',
